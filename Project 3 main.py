@@ -1,5 +1,4 @@
-#I have not given or received any unauthorized assistance on this assignment.
-#eli hebert
+
 from grid import Grid
 from m1_m2 import M1, M2
 from current_position import Current_Position
